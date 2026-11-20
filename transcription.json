@@ -1,7 +1,7 @@
 {
   "source_title": "Lunacy versus Liberty",
   "title_zh": "《精神失常與自由》：肯辛頓院住院者的公開信（1832）",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "language": "en",
   "catalogue": "https://wellcomecollection.org/works/cx5swtn8",
   "manifest": "https://iiif.wellcomecollection.org/presentation/v2/b21473109",
@@ -232,7 +232,7 @@
             },
             {
               "kind": "text",
-              "text": "Is it not eccentric to drag a person to a police office, and subject him to a heavy fine or imprisonment for breaking a law he never heard of? Even the unpaid themselves often chuckle at the absurdity of some of the acts made by our wise laws.",
+              "text": "Is it not eccentric to drag a person to a police office, and subject him to a heavy fine or imprisonment for breaking a law he never heard of? Even the unpaid themselves often chuckle at the absurdity of some of the acts made by our wise Jaws.",
               "id": "f006-s-u03"
             },
             {
@@ -247,7 +247,8 @@
             }
           ],
           "notes": [
-            "The last two words of the third paragraph use italics in the scan. The stylized l was misread as a capital by the OCR; read laws."
+            "The last two words of the third paragraph use italics in the scan. The stylized l was misread as a capital by the OCR; read laws.",
+            "The initial reading “laws” remains an alternative for the ornate italic initial in “Jaws”."
           ]
         }
       ]
@@ -573,7 +574,7 @@
           "units": [
             {
               "kind": "text",
-              "text": "fore I was at Finch’s, occupied the same apartment I did; he must have been in possession of great muscular strength at the time, as I understood he took up a large chair, and struck the four legs of it through as many squares of glass in the window of the room. When I came, he was in such a debiliated state, that a child might put him down easily—he was so decrepit, that his head was sunk on his chest, and during the four weeks I was there, I never once saw his face. When his physicians came to see him, the keepers were obliged to get him into their room a full hour before they arrived, or he could not have spoken to them. I know not who kept him there; whoever they may be, they ought to blush to keep this poor fellow among mad-men, when he only required a nurse. He was treated with the greatest kindness by Mr. Finch, and excited the general sympathy of all the other patients.",
+              "text": "fore I was at Finch’s, occupied the same apartment I did; he must have been in possession of great muscular strength at the time, as I understood he took up a large chair, and struck the four legs of it through as many squares of glass in the window of the room. When I came, he was in such a debiliated state, that a child might put him down easily—he was so decrepit, that his head was sunk on his chest, and during the four weeks I was there, I never once saw his face. When his physicians came to see him, the keepers were obliged to get him into their room a full hour before they arrived, or he could not have spoken to them. I know not who kept him there; whoever they may be, they ought to blush to keep this poor fellow among mad-\nmen, when he only required a nurse. He was treated with the greatest kindness by Mr. Finch, and excited the general sympathy of all the other patients.",
               "id": "f013-s-u01"
             },
             {
@@ -583,7 +584,8 @@
             }
           ],
           "notes": [
-            "The original page number 11 is visible but was not captured by the OCR."
+            "The original page number 11 is visible but was not captured by the OCR.",
+            "The original divides mad- / men across adjacent lines; retained the printed division."
           ]
         }
       ]
