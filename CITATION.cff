@@ -2,7 +2,7 @@
   "cff-version": "1.2.0",
   "message": "Please cite the dataset version and the original publication.",
   "type": "dataset",
-  "title": "《精神失常與自由》：肯辛頓院住院者的公開信（1832） / Lunacy versus Liberty — Transcription Dataset",
+  "title": "《精神失常與自由》:肯辛頓院住院者的公開信(1832) / Lunacy versus Liberty — Transcription Dataset",
   "version": "0.2.0",
   "date-released": "2026-11-20",
   "authors": [
@@ -26,5 +26,6 @@
     "psychiatric patient narrative",
     "history of psychiatry",
     "lunacy law"
-  ]
+  ],
+  "doi": "10.5281/zenodo.24383443"
 }
