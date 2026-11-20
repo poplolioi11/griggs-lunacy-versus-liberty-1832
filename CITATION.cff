@@ -1,0 +1,30 @@
+{
+  "cff-version": "1.2.0",
+  "message": "Please cite the dataset version and the original publication.",
+  "type": "dataset",
+  "title": "《精神失常與自由》：肯辛頓院住院者的公開信（1832） / Lunacy versus Liberty — Transcription Dataset",
+  "version": "0.1.0",
+  "date-released": "2026-11-20",
+  "authors": [
+    {
+      "given-names": "Chen-Yu",
+      "family-names": "Chu",
+      "orcid": "https://orcid.org/0009-0003-9738-6914"
+    }
+  ],
+  "repository-code": "https://github.com/poplolioi11/griggs-lunacy-versus-liberty-1832",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "精神醫學史",
+    "私人精神病院",
+    "住院者敘事",
+    "收治制度",
+    "William Griggs",
+    "Kensington House",
+    "London",
+    "asylum reform",
+    "psychiatric patient narrative",
+    "history of psychiatry",
+    "lunacy law"
+  ]
+}
